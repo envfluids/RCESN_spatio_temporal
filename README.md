@@ -14,3 +14,15 @@ I thank Pantelis, Peter Dueben and Jaideep Pathak for their generousity in shari
 Please note that apart from the ESN, which is implemented from scratch the other codes are supported by Keras on a Tensorflow backend. Depending on the Keras version, you may need to change "epochs" to "nb_epoch" or the other way around in the model.fit() API in Keras.
 
 As always, if you use it, please fork it.   
+
+
+@article{chattopadhyay2020data,
+  title={Data-driven predictions of a multiscale Lorenz 96 chaotic system using machine-learning methods: reservoir computing, artificial neural network, and long short-term memory network},
+  author={Chattopadhyay, Ashesh and Hassanzadeh, Pedram and Subramanian, Devika},
+  journal={Nonlinear Processes in Geophysics},
+  volume={27},
+  number={3},
+  pages={373--389},
+  year={2020},
+  publisher={Copernicus GmbH}
+}
