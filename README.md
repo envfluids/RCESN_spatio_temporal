@@ -15,7 +15,7 @@ Please note that apart from the ESN, which is implemented from scratch the other
 
 As always, if you use it, please fork it.   
 
-
+## citation
 @article{chattopadhyay2020data,
   title={Data-driven predictions of a multiscale Lorenz 96 chaotic system using machine-learning methods: reservoir computing, artificial neural network, and long short-term memory network},
   author={Chattopadhyay, Ashesh and Hassanzadeh, Pedram and Subramanian, Devika},
